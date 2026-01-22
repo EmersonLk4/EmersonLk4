@@ -3,7 +3,7 @@
 ## Analista de Dados Iniciante
 
 ### Sobre Mim
-Estudante em transição para Análise de Dados, apaixonado por transformar dados em insights valiosos. Atualmente desenvolvendo habilidades em:
+Estudante de Engenharia Informatica em transição para a Area de Dados, com foco em transformar dados em insights valiosos. Atualmente desenvolvendo habilidades em:
 
 ### Tecnologias & Ferramentas
 - **Linguagens:** Python, SQL
@@ -29,7 +29,7 @@ Estudante em transição para Análise de Dados, apaixonado por transformar dado
 - Livro: "Storytelling com Dados"
 - Prática: Desafios do Kaggle
 
-### Objetivos 2025
+### Objetivos 2026
 - [ ] Completar 5 projetos de análise
 - [ ] Contribuir em projeto open source
 - [ ] Aprender Apache Spark básico
